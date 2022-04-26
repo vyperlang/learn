@@ -185,6 +185,19 @@ h6,
   padding: 0;
 }
 
+/* Styling for Cover Page font */
+
+section.cover .cover-main{
+  color: #4d4d4d;
+}
+
+section.cover .cover-main #vyper-tutorials span {
+  color: #4d4d4d;
+}
+
+/* End Styling for Cover Page font */
+
+
 /* Styling for Cover Page Buttons */
 
 section.cover .cover-main > p:last-child a:first-child {
@@ -198,6 +211,12 @@ section.cover .cover-main > p:last-child a:last-child {
 }
 
 /* End Styling for Cover Page Buttons */
+
+/* Custom Styling for lessons page */
+
+.card-body .btn-primary {
+  color: #FFF;
+}
 
 /* Custom Styling for other parts of markdown */
 
