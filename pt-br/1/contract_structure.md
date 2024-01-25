@@ -14,7 +14,7 @@ um contrato.
 
 Vyper suporta um pragma de versão para garantir que um contrato seja apenas
 compilado pela versão pretendida do compilador ou intervalo de versões. Versão
-strings usam sintaxe de estilo [NPM] (https://docs.npmjs.com/misc/semver).
+strings usam sintaxe de estilo [NPM] (https://docs.npmjs.com/about-semantic-versioning).
 
 Para o escopo deste tutorial, queremos compilar nossos contratos inteligentes com qualquer versão do compilador no intervalo de `0.2.0` (inclusive) a` 0.3.0` (exclusivo). Se parece com isso:
 

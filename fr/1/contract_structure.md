@@ -11,7 +11,7 @@ Les contrats Vyper sont contenus dans des fichiers. Chaque fichier contient exac
 
 ## Version Pragma
 
-Vyper prend en charge un pragma de version pour garantir qu'un contrat n'est compilé que par la version de compilateur ou la plage de versions prévue. Les chaînes de version utilisent la syntaxe de style [NPM](https://docs.npmjs.com/misc/semver).
+Vyper prend en charge un pragma de version pour garantir qu'un contrat n'est compilé que par la version de compilateur ou la plage de versions prévue. Les chaînes de version utilisent la syntaxe de style [NPM](https://docs.npmjs.com/about-semantic-versioning).
 
 Dans le cadre de ce tutoriel, nous allons compiler nos contrats intelligents avec n'importe quelle version du compilateur comprise entre `0.2.0` (inclus) et `0.3.0` (exclus). Cela ressemble à ceci :
 

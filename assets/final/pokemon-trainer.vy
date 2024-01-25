@@ -46,10 +46,10 @@ def battleWildPokemon(pokemonIndex: uint256):
 
     battleResult, newPokemonName, newPokemonDNA, newPokemonHP = WildPokemons(WILD_POKEMON).battle(self.trainerToPokemon[msg.sender][pokemonIndex])
 
-    if(battleResult):
+    if battleResult:
 
-        self.trainerToPokemon[msg.sender][pokemonIndex].matches +=1
-        self.trainerToPokemon[msg.sender][pokemonIndex].wins +=1
+        self.trainerToPokemon[msg.sender][pokemonIndex].matches += 1
+        self.trainerToPokemon[msg.sender][pokemonIndex].wins += 1
 
         newPokemon: Pokemon = Pokemon({
             name: newPokemonName,
@@ -68,7 +68,7 @@ def battleWildPokemon(pokemonIndex: uint256):
         log NewPokemonCreated(newPokemonName, newPokemonDNA, newPokemonHP)
 
     else:
-        self.trainerToPokemon[msg.sender][pokemonIndex].matches +=1
+        self.trainerToPokemon[msg.sender][pokemonIndex].matches += 1
 
 @pure
 @internal

@@ -12,7 +12,7 @@ So, for our use-case, we need to create an interface for the pokemon battle cont
 
 ### Using Interfaces
 
-Interfaces can be added to contracts either through inline definition or by [importing them from a separate file](https://vyper.readthedocs.io/en/stable/interfaces.html?highlight=import#imports-via-import).
+Interfaces can be added to contracts either through inline definition or by [importing them from a separate file](https://docs.vyperlang.org/en/stable/interfaces.html?highlight=import#imports-via-import).
 
 The `interface` keyword is used to define an inline external interface:
 
@@ -65,7 +65,7 @@ def test(some_address: address):
 
 ## Put it to the test
 
-As the coding area can only have one file at a time, we have removed the pokemon battle contract and added the trainer contract. You can check out the pokemon battle contract [here](https://github.com/vyperlang/vyper.fun/blob/chapter1/assets/2/2.7-finished-code.vy).
+As the coding area can only have one file at a time, we have removed the pokemon battle contract and added the trainer contract. You can check out the pokemon battle contract [here](https://github.com/vyperlang/learn/blob/chapter1/assets/2/2.7-finished-code.vy).
 
 1. The pokemon battle contract only has 1 external function: `battle`
 

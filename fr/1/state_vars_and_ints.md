@@ -16,7 +16,7 @@ Les variables d'état sont stockées de façon permanente dans le stockage des c
 storedData: int128
 ```
 
-Dans cet exemple de contrat, nous avons créé un [`int128`](https://vyper.readthedocs.io/en/stable/types.html#signed-integer-128-bit) appelé `storedData` qui contient une valeur par _défaut_ de `1`.
+Dans cet exemple de contrat, nous avons créé un [`int128`](https://docs.vyperlang.org/en/stable/types.html#signed-integer-n-bit) appelé `storedData` qui contient une valeur par _défaut_ de `1`.
 
 ## Entiers non signés : `uint256`.
 

@@ -13,7 +13,7 @@ Vyper Contracts sind innerhalb von Dateien. Jede Datei enthält genau einen Cont
 
 Vyper unterstützt Versions-Compiler-Anweisungen um sicherzustellen, dass ein Contract
 nur mit einer festgelegten Compilerversion bzw. Versionsspanne kompiliert wird.
-Dazu wird die [NPM](https://docs.npmjs.com/misc/semver) Syntax verwendet.
+Dazu wird die [NPM](https://docs.npmjs.com/about-semantic-versioning) Syntax verwendet.
 
 Für dieses Tutorial verwenden wir eine Compilerversion zwischen `0.2.0` (inklusive) und `0.3.0` (exklusive). Da sieht wie folgt aus:
 

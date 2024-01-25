@@ -4,14 +4,14 @@
 
 ## What is this?
 
-This is an [interactive tutorial website]( https://learn.vyperlang.org/#/) for learning Vyper while building games using smart contracts, similar to Cryptozombies.
+This is an [interactive tutorial website](https://learn.vyperlang.org/) for learning Vyper while building games using smart contracts, similar to Cryptozombies.
 
 ## Running tutorials locally
 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/vyperlang/vyper.fun
+git clone https://github.com/vyperlang/learn
 ```
 
 2. Download and Install [Node.js](https://nodejs.org/).
@@ -37,7 +37,7 @@ Given that Vyper.fun is a global project, we believe it's critical that Vyper.fu
 
 ### How to get involved
 
-Check out [contribution guide](https://github.com/vyperlang/vyper.fun/blob/master/CONTRIBUTION.md) for instructions on how to get started as a translator. Don't see your language listed? Please comment [here](https://github.com/vyperlang/vyper.fun/issues/6) & we'll help get you set up.
+Check out [contribution guide](https://github.com/vyperlang/learn/blob/master/CONTRIBUTION.md) for instructions on how to get started as a translator. Don't see your language listed? Please comment [here](https://github.com/vyperlang/learn/issues/6) & we'll help get you set up.
 
 Join our [Discord server](https://discord.gg/Svaav43) for collaboration & support.
 

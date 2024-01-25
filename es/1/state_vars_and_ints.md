@@ -16,7 +16,7 @@ Las variables de estado se almacenan de forma permanente en el contrato. Esto si
 storedData: int128
 ```
 
-En este contrato de ejempli, creamos un [`int128`](https://vyper.readthedocs.io/en/stable/types.html#signed-integer-128-bit) llamado `storedData` que contiene por _defecto_ un valor de `1`.
+En este contrato de ejempli, creamos un [`int128`](https://docs.vyperlang.org/en/stable/types.html#signed-integer-n-bit) llamado `storedData` que contiene por _defecto_ un valor de `1`.
 
 ## Enteros sin signo: `uint256`
 

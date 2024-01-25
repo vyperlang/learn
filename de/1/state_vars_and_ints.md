@@ -16,7 +16,7 @@ Zustandsvariablen sind permanent im Contract-Speicher gespeichert. Das bedeutet,
 storedData: int128
 ```
 
-In diesem Beispielcontract speicherten wir ein [`int128`](https://vyper.readthedocs.io/en/stable/types.html#signed-integer-128-bit) genannt `storedData`, welche einen _Standardwert_ von `1` besitzt.
+In diesem Beispielcontract speicherten wir ein [`int128`](https://docs.vyperlang.org/en/stable/types.html#signed-integer-n-bit) genannt `storedData`, welche einen _Standardwert_ von `1` besitzt.
 
 ## Positive Zahlen: `uint256`
 

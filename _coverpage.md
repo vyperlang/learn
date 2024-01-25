@@ -5,8 +5,8 @@
 > Learn Vyper by building a Pokémon Game!
 
 [Get Started](/lessons.html)
-[Empezar](https://vyper.fun/en-lessons.html)
-[GitHub](https://github.com/vyperlang/vyper.fun)
+[Empezar](/es-lessons.html)
+[GitHub](https://github.com/vyperlang/learn)
 
 <!-- [开始吧](zh-cn/WELCOME.md)
 [はじめる](ja-jp/WELCOME.md)

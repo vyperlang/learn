@@ -10,7 +10,7 @@ I contratti in Vyper sono contenuti in un file. Ciascun file contiene uno e un s
 
 Vyper supporta un version pragma per far sì che un contratto sia compilato
 soltanto da un compilatore specifico per quella versione o intervallo di versioni.
-I codici di versione seguono la sintassi NPM (https://docs.npmjs.com/misc/semver).
+I codici di versione seguono la sintassi NPM (https://docs.npmjs.com/about-semantic-versioning).
 
 In questo tutorial compileremo i nostri contratti con un compilatore per versioni dalla `0.2.0` (inclusa) alla `0.3.0` (esclusa). La specifica è:
 
