@@ -6,7 +6,7 @@ Let's create a new contract using which we can battle with wild pokemons and try
 
 ## Put it to the test
 
-We will re-use some parts of our previous contract. Now, let's add some state variables.
+We will reuse some parts of our previous contract. Now, let's add some state variables.
 
 1. Add a `constant` `uint256` storage variable named `NAME_MODULUS`, and set it equal to `20`.
 
