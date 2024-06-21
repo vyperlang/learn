@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/contract_structure
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/contract_structure
 Do NOT change the code below. The below code runs the code editor -->
 
 # Kapitel 1: Contracts

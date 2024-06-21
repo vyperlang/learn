@@ -212,6 +212,7 @@ section.cover .cover-main > p:last-child a:last-child {
 
 .markdown-section a {
   font-weight: unset;
+  color: #dcdca9;
 }
 
 /* End custom markdown styling */

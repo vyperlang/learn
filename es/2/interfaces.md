@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/2/interfaces
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/2/interfaces
 Do NOT change the code below. The below code runs the code editor -->
 
 # Capítulo 8: Interfaces

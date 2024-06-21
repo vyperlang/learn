@@ -16,17 +16,10 @@ git clone https://github.com/vyperlang/learn
 
 2. Download and Install [Node.js](https://nodejs.org/).
 
-3. Install `docsify` globally.
+3. Run the tutorial locally.
 
 ```bash
-// you may need to use sudo
-npm i docsify-cli -g
-```
-
-4. Run the tutorial locally.
-
-```bash
-docsify serve .
+npx docsify-cli serve .
 ```
 
 ## Contribution Guide

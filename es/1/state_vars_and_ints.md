@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/state_vars_and_ints
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/state_vars_and_ints
 Do NOT change the code below. The below code runs the code editor -->
 
 # Capitulo 2: Variables de estado, Enteros & Constantes

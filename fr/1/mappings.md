@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/mappings
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/mappings
 Do NOT change the code below. The below code runs the code editor -->
 
 <!-- tabs:start -->

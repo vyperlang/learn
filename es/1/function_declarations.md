@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/function_declarations
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/function_declarations
 Do NOT change the code below. The below code runs the code editor -->
 
 # Capítulo 6: Declaración de funciones

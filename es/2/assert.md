@@ -38,7 +38,7 @@ Para seleccionar un `Pokemon` específico de un entrenador, necesitamos dos cosa
 
 - Un índice `uint256` que seleccionará un pokemon específico del entrenador.
 
-Recordemos del [Capítulo 2](https://vyper.fun/#/2/msg-sender) que puedes obtener la dirección del ejecutor del contrato usando `msg.sender`.
+Recordemos del [Capítulo 2](https://learn.vyperlang.org/#/2/msg-sender) que puedes obtener la dirección del ejecutor del contrato usando `msg.sender`.
 
 1. Crea una función `external` llamada `battleWildPokemon` que reciba un solo parámetro: `pokemonIndex` de tipo `uint256`.
 

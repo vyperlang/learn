@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/2/calling_a_contract
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/2/calling_a_contract
 Do NOT change the code below. The below code runs the code editor -->
 
 <!-- tabs:start -->
