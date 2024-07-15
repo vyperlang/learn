@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/public_vars
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/public_vars
 Do NOT change the code below. The below code runs the code editor -->
 
 # Глава 9: Публичные переменные

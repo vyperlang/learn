@@ -11,7 +11,7 @@ one contract.
 
 Vyper supports a version pragma to ensure that a contract is only
 compiled by the intended compiler version, or range of versions. Version
-strings use [NPM](https://docs.npmjs.com/misc/semver) style syntax.
+strings use [NPM](https://docs.npmjs.com/about-semantic-versioning) style syntax.
 
 For the scope of this tutorial, we'll want to compile our smart contracts with any compiler version in the range of `0.2.0` (inclusive) to `0.3.0` (exclusive). It looks like this:
 

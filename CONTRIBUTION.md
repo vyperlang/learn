@@ -40,7 +40,7 @@ Click the "pencil" icon on the top right to edit the file.
 
 ![Pencil icon can be used to edit a file](https://files.gitter.im/5f4e9bc8d73408ce4fedc7e3/S901/hack-3.png)
 
-In the first line of the file, you will find a link. In this case you will find the following link: https://vyper.fun/#/1/contract_structure
+In the first line of the file, you will find a link. In this case you will find the following link: https://learn.vyperlang.org/#/1/contract_structure
 
 ![Post link in the file comment](https://files.gitter.im/5f4e9bc8d73408ce4fedc7e3/wwcQ/hack-4.png)
 
@@ -66,6 +66,6 @@ In the next page, you can add a description about the chapter and the translatio
 
 Keep an on this page. I will review your edits and if there is something wrong, I will let you know in the comments section of the page.
 
-If everything is ok, then your pull request will be merged! You will be listed as a contributor on the [contributors wall](https://github.com/vyperfun/vyper.fun#contributors)!
+If everything is ok, then your pull request will be merged! You will be listed as a contributor on the [contributors wall](https://github.com/vyperlang/learn#contributors)!
 
 ![Contributors wall](https://files.gitter.im/5f4e9bc8d73408ce4fedc7e3/GNjO/hack-11.png)

@@ -17,8 +17,8 @@ Reutilizaremos algunas partes de nuestro contrato anterior. Ahora, agreguemos al
 4. Realice los siguientes cambios en la función `_generateRandomDNA`:
 
    - Elimina el parámetro de entrada `_name` para que `_generateRandomDNA` no acepte ningún parámetro.
-   - En el cuerpo de la función `_generateRandomDNA`, remplaza `_name` por `battleCount`. Ahora puedes recordar de [Lección 1, Capitulo 11](https://vyper.fun/#/1/keccak256-and-typecasting), que `keccak256` espera un único parámetro de tipo `bytes32`, `Bytes` o `String`. Entonces, necesitamos usar `convert` para castear `battleCount` a `bytes32`.
-   - Puedes recordar de [Lección 1, Capitulo 10](https://vyper.fun/#/1/more_on_functions) que agregamos el decorador `@pure` a una función que no lee el estado del contrato o las variables de entorno. Pero ahora que `_generateRandomDNA` accede a `battleCount` (una variable de estado), ya no es una función `@pure`. Por lo cual, elimina el decorador de función `@pure`.
+   - En el cuerpo de la función `_generateRandomDNA`, remplaza `_name` por `battleCount`. Ahora puedes recordar de [Lección 1, Capitulo 11](https://learn.vyperlang.org/1/keccak256-and-typecasting), que `keccak256` espera un único parámetro de tipo `bytes32`, `Bytes` o `String`. Entonces, necesitamos usar `convert` para castear `battleCount` a `bytes32`.
+   - Puedes recordar de [Lección 1, Capitulo 10](https://learn.vyperlang.org/1/more_on_functions) que agregamos el decorador `@pure` a una función que no lee el estado del contrato o las variables de entorno. Pero ahora que `_generateRandomDNA` accede a `battleCount` (una variable de estado), ya no es una función `@pure`. Por lo cual, elimina el decorador de función `@pure`.
 
 <!-- tabs:start -->
 

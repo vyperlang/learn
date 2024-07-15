@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/2/wild_pokemons
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/2/wild_pokemons
 Do NOT change the code below. The below code runs the code editor -->
 
 <!-- tabs:start -->

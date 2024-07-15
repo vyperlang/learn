@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/state_vars_and_ints
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/state_vars_and_ints
 Do NOT change the code below. The below code runs the code editor -->
 
 # Kapitel 2: Zustandsvariablen, Zahlen & Konstanten
@@ -16,7 +16,7 @@ Zustandsvariablen sind permanent im Contract-Speicher gespeichert. Das bedeutet,
 storedData: int128
 ```
 
-In diesem Beispielcontract speicherten wir ein [`int128`](https://vyper.readthedocs.io/en/stable/types.html#signed-integer-128-bit) genannt `storedData`, welche einen _Standardwert_ von `1` besitzt.
+In diesem Beispielcontract speicherten wir ein [`int128`](https://docs.vyperlang.org/en/stable/types.html#signed-integer-n-bit) genannt `storedData`, welche einen _Standardwert_ von `1` besitzt.
 
 ## Positive Zahlen: `uint256`
 

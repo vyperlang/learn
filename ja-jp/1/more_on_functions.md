@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/more_on_functions
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/more_on_functions
 Do NOT change the code below. The below code runs the code editor -->
 
 <!-- tabs:start -->

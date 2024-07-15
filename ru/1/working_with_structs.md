@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/working_with_structs
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/working_with_structs
 Do NOT change the code below. The below code runs the code editor -->
 
 # Глава 7: Работа со структурами и отображениями

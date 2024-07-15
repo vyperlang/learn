@@ -6,7 +6,7 @@ In order to do this, we need to use something called `msg.sender`.
 
 ## msg.sender
 
-In Vyper, there are certain global variables that are available to all functions. One of these is `msg.sender`, which refers to the address of the person (or smart contract) who called the current function.
+In Vyper, there are certain [global variables](https://docs.vyperlang.org/en/stable/constants-and-vars.html#environment-variables) that are available to all functions. One of these is `msg.sender`, which refers to the address of the person (or smart contract) who called the current function.
 
 > Note: In Vyper, function execution always needs to start with an external caller. A contract will just sit on the blockchain doing nothing until someone calls one of its functions. So there will always be a `msg.sender`.
 

@@ -1,4 +1,4 @@
-<!-- Add translation for the following page: https://vyper.fun/#/1/state_vars_and_ints
+<!-- Add translation for the following page: https://learn.vyperlang.org/#/1/state_vars_and_ints
 Do NOT change the code below. The below code runs the code editor -->
 
 # Capitulo 2: Variables de estado, Enteros & Constantes
@@ -16,7 +16,7 @@ Las variables de estado se almacenan de forma permanente en el contrato. Esto si
 storedData: int128
 ```
 
-En este contrato de ejempli, creamos un [`int128`](https://vyper.readthedocs.io/en/stable/types.html#signed-integer-128-bit) llamado `storedData` que contiene por _defecto_ un valor de `1`.
+En este contrato de ejempli, creamos un [`int128`](https://docs.vyperlang.org/en/stable/types.html#signed-integer-n-bit) llamado `storedData` que contiene por _defecto_ un valor de `1`.
 
 ## Enteros sin signo: `uint256`
 

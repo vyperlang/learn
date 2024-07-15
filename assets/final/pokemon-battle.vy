@@ -55,7 +55,7 @@ def battle(pokemon: Pokemon) -> (bool, String[32], uint256, uint256):
 
     self.battleCount += 1
 
-    if(pokemon.HP > randomHP):
+    if pokemon.HP > randomHP:
         return True, randomName, randomDNA, randomHP
     else:
         return False, empty(String[32]), empty(uint256), empty(uint256)
