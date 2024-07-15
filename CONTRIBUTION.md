@@ -6,7 +6,7 @@ Follow the steps to translate chapters and **WIN a [Hacktoberfest T-shirt](https
 
 ### Step 1: Select a language in which you want to translate
 
-Click the link to your preffered language.
+Click the link to your preferred language.
 
 - [Chinese](https://github.com/vyperfun/vyper.fun/issues/7)
 - [Japanese](https://github.com/vyperfun/vyper.fun/issues/10)

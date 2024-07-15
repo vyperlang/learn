@@ -2,7 +2,7 @@
 
 In the previous chapter, we initialized our contract with 20 pokemon names. Now, it's the time we battle ⚔️
 
-## Funtion with multiple return values
+## Function with multiple return values
 
 A function can also return multiple return values like the following:
 
@@ -23,7 +23,7 @@ def getPersonDetails(rollNumber: uint256) -> (String[32], uint256):
 
 ## Put it to the test
 
-1. Create an `@external` function named `battle` which has 1 input paramter: `pokemon` of type `Pokemon`. It returns 4 parameters: `bool`, `String[32]`, `uint256`, `uint256`.
+1. Create an `@external` function named `battle` which has 1 input parameter: `pokemon` of type `Pokemon`. It returns 4 parameters: `bool`, `String[32]`, `uint256`, `uint256`.
 
 2. Inside the `battle` function, create a `uint256` variable named `randomDNA`. Now call the `_generateRandomDNA` function and assign its output to `randomDNA`.
 

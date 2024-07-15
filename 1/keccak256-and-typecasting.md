@@ -42,7 +42,7 @@ c: int128 = convert(a, int128) * b
 
 Here we mitigated the error by converting `a` from `uint256` to `int128`.
 
-All type conversions in Vyper must be made explicitly using the built-in `convert(a: atype, btype)` function. Here is the list of [supported type converstions](https://vyper.readthedocs.io/en/stable/types.html#type-conversions).
+All type conversions in Vyper must be made explicitly using the built-in `convert(a: atype, btype)` function. Here is the list of [supported type conversions](https://vyper.readthedocs.io/en/stable/types.html#type-conversions).
 
 ## Put it to the test
 

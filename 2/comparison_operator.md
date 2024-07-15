@@ -4,7 +4,7 @@ In the previous chapter, we created the `battle` function which created a random
 
 We need to compare the wild pokemon and the trainer pokemon to return the result of the battle. For this purpose we need comparison operators.
 
-## Comparision Operators
+## Comparison Operators
 
 Different types support different comparison operators. For our use-case we will compare 2 `uint256`.
 
