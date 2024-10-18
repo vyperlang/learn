@@ -16,7 +16,7 @@ As we discussed we have 2 conditions based on the `battleResult` variable. If `b
 
    - Increase the number of `matches` for the trainer's pokemon by `1` (use `+=` arithmetic operator to keep the code clean). To access the trainer's pokemon, use `trainerToPokemon` mapping with first key as `msg.sender` and second key as `pokemonIndex`.
    - Increase the number of `wins` for the trainer's pokemon by `1` (use `+=` arithmetic operator to keep the code clean).
-   - Create a new variable named `newPokemon` of type `Pokemon` and assign its value to a new Pokemon created using the `Pokemon` struct and use the following paramters:
+   - Create a new variable named `newPokemon` of type `Pokemon` and assign its value to a new Pokemon created using the `Pokemon` struct and use the following parameters:
      - name: `newPokemonName`
      - dna: `newPokemonDNA`
      - HP: `newPokemonHP`
